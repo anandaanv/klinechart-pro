@@ -72,4 +72,5 @@ export interface ChartPro {
   setPeriod(period: Period): void
   getPeriod(): Period
   getOverlays(): ReadonlyArray<any>
+
 }
